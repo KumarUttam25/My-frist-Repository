@@ -1,2 +1,3 @@
 # My-frist-Repository
-My frist GitHub
+My frist Git Repository
+Author - Uttam Kumar Mandal
